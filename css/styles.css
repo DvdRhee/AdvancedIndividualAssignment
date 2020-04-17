@@ -20,17 +20,30 @@ padding-top: 10px;
 
 .welcome-title{ 
 	text-align: center;
-	font-size:x-large;
+	font-size:xx-large;
 	color:red;
 	 }
 
 .openingtimes-title{ 
 	text-align:center;
-	font-size:x-large;
+	font-size:xx-large;
 	color:green; }
 
+.reservation-title{ 
+	color:black;
+	text-align:center; }
 
+.hola{
+	color:green;
+}
 
+.mexicana{
+	color:red;
+}
+
+.footer-reservations{
+	color:red;
+}
 
 //Carousel Styling//
 .carousel {
@@ -52,7 +65,7 @@ padding-top: 10px;
 //End of Carousel Styling//
 
 
-//Reservationform Styling//
+
 
 
 
